@@ -1,0 +1,18 @@
+[general]
+services = lastfm, gmusic, spotify, youtube
+max_similar_tracks = 15
+player = mpvctl -c
+
+[youtube]
+api = 
+
+[lastfm]
+api = 
+secret = 
+
+[discogs]
+api = 
+
+[spotify]
+api = 
+secret = 
